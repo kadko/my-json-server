@@ -357,7 +357,7 @@
   },
   
 "get-code": {
-    "verificationCode": 'code123'
+    "verificationCode": "code123"
   },
   
 "send-code": {
