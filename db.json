@@ -56,9 +56,7 @@
     "id":7,
     "read":false
   }
-],
-
-"get-token": {"token": "token1"}, 
+], 
 "get-code": {"verificationCode": "code123"},
 "send-code": {"token":"tokenoneabc123"}
 }
