@@ -1,5 +1,5 @@
 {
-  "get-haberler": [
+"get-haberler": [
   {
     "fromName":"Matt Chorsey",
     "subject":"New event: Trip to Vegas",
@@ -351,16 +351,7 @@
   "content":"test content",
   "image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"]
 },
-
-"get-token": {
-    "token": "token1"
-  },
-  
-"get-code": {
-    "verificationCode": "code123"
-  },
-  
-"send-code": {
-    "token":"tokenoneabc123"
-  }
+"get-token": {"token": "token1"}, 
+"get-code": {"verificationCode": "code123"},
+"send-code": {"token":"tokenoneabc123"}
 }
