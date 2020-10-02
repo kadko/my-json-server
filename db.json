@@ -6,6 +6,7 @@
     "date":"9:32 AM",
     "id":0,
     "read":false,
+	"category": ["Kategori A"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
@@ -15,6 +16,7 @@
     "date":"6:12 AM",
     "id":1,
     "read":false,
+	"category": ["Kategori B"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
@@ -24,6 +26,7 @@
     "date":"4:55 AM",
     "id":2,
     "read":false,
+	"category": ["Kategori C"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
@@ -33,6 +36,7 @@
     "date":"Yesterday",
     "id":3,
     "read":false,
+	"category": ["Kategori A"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
@@ -42,6 +46,7 @@
     "date":"Yesterday",
     "id":4,
     "read":false,
+	"category": ["Kategori B"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
@@ -51,6 +56,7 @@
     "date":"Yesterday",
     "id":5,
     "read":false,
+	"category": ["Kategori C"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
@@ -60,6 +66,7 @@
     "date":"Last Week",
     "id":6,
     "read":false,
+	"category": ["Kategori A"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
@@ -69,10 +76,11 @@
     "date":"Last Week",
     "id":7,
     "read":false,
+	"category": ["Kategori B"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   }
-], 
+],
 "get-code": {"verificationCode": "code123"},
 "send-code": {"token":"tokenoneabc123"}
 }
