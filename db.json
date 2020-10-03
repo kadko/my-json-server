@@ -7,6 +7,7 @@
     "id":0,
     "read":false,
 	"category": ["Kategori A"],
+	"city": ["Adana", "Afyon"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially."
   },
@@ -17,6 +18,7 @@
     "id":1,
     "read":false,
 	"category": ["Kategori B"],
+	"city": ["Bursa", "Balıkesir"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially."
   },
@@ -27,6 +29,7 @@
     "id":2,
     "read":false,
 	"category": ["Kategori C"],
+	"city": ["Çanakkale", "Ceyhan"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially."
   },
@@ -36,7 +39,8 @@
     "date":"Yesterday",
     "id":3,
     "read":false,
-	"category": ["Kategori A"],
+	"category": ["Kategori A"],,
+	"city": ["Ankara", "Antalya"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially."
   },
@@ -46,7 +50,8 @@
     "date":"Yesterday",
     "id":4,
     "read":false,
-	"category": ["Kategori B"],
+	"category": ["Kategori B"],,
+	"city": ["Burdur", "Bursa"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially."
   },
@@ -56,7 +61,8 @@
     "date":"Yesterday",
     "id":5,
     "read":false,
-	"category": ["Kategori C"],
+	"category": ["Kategori C"],,
+	"city": ["Çanakkale", "Çorum"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially."
   },
@@ -66,7 +72,8 @@
     "date":"Last Week",
     "id":6,
     "read":false,
-	"category": ["Kategori A"],
+	"category": ["Kategori A"],,
+	"city": ["Amasya", "Ankara"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially."
   },
@@ -76,7 +83,8 @@
     "date":"Last Week",
     "id":7,
     "read":false,
-	"category": ["Kategori B"],
+	"category": ["Kategori B"],,
+	"city": ["Bingöl", "Balıkesir"],
 	"image":["400x200-1.jpg","400x200-2.jpg","400x200-3.jpg"],
 	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially."
   }
